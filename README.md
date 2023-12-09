@@ -2,6 +2,7 @@
 from pdf2docx import parse
 
 pdf_file = 'D:\\Машинное обучение и анализ данных\\PyPrZd3Функцииnew.pdf'
+
 docx_file = 'D:\\Машинное обучение и анализ данных\\sample.docx'
 
 # convert pdf to docx
