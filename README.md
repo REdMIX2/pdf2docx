@@ -1,8 +1,8 @@
 Пример
 from pdf2docx import parse
 
-pdf_file = 'D:\\1 ЭТО МОЁ;)\\Студент\\Машинное обучение и анализ данных\\PyPrZd3Функцииnew.pdf'
-docx_file = 'D:\\1 ЭТО МОЁ;)\\Студент\\Машинное обучение и анализ данных\\sample.docx'
+pdf_file = 'D:\\Машинное обучение и анализ данных\\PyPrZd3Функцииnew.pdf'
+docx_file = 'D:\\Машинное обучение и анализ данных\\sample.docx'
 
 # convert pdf to docx
 parse(pdf_file, docx_file)
