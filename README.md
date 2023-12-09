@@ -1,3 +1,15 @@
+Пример
+from pdf2docx import parse
+
+pdf_file = 'D:\\1 ЭТО МОЁ;)\\Студент\\Машинное обучение и анализ данных\\PyPrZd3Функцииnew.pdf'
+docx_file = 'D:\\1 ЭТО МОЁ;)\\Студент\\Машинное обучение и анализ данных\\sample.docx'
+
+# convert pdf to docx
+parse(pdf_file, docx_file)
+
+
+
+
 English | [中文](README_CN.md)
 
 # pdf2docx 
